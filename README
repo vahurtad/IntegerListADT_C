@@ -1,0 +1,25 @@
+/*
+ *  Name: Vanessa Hurtado
+ */
+
+Files: ListClient.c List.c List.h Lex.c makefile README
+
+
+== ListClient.c (unaltered) ==
+This file is used as a test client for the List ADT.
+
+== List.h ==
+This file is the header file for List.c containing all functions to be used.
+
+== List.c ==
+A List ADT that utilizes a doubly linked list structure.
+
+== Lex.c ==
+This file uses two line arguments that take the input file name and the utput file name.
+It uses the List ADT to sort in lexicographic order, and prints the sorted list from the input file to the output file.
+
+== Makefile == 
+Creates an executable jar file and used for compiling the programs.
+
+== README ==
+This file lists all files submitted with their descriptions of their roles in this project.
